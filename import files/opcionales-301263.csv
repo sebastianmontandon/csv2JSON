@@ -1,0 +1,21 @@
+﻿SKU Producto;Grupo de opciones;SKU Grupo de opciones;SKU Nombre Grupo de opciones;Cantidad Grupo de opciones;Cantidad mínima Grupo de opciones;Cantidad máxima Grupo de opciones;ID Opción;Nombre Opción;Precio;SKU;SKU Nombre;Modifica precio;Nombre Producto; ID Producto;IS ID Opción;Indice
+;Gustos;;;12;;;72327311;jamon y queso;0.0;;;0;Empanadas docena;57665413;72327311;1
+;Gustos;;;12;;;72327312;Carne;0.0;;;0;Empanadas docena;57665413;72327312;2
+;Gustos;;;12;;;72327313;Pollo;0.0;;;0;Empanadas docena;57665413;72327313;3
+;Gustos;;;12;;;72327314;cebolla y queso;0.0;;;0;Empanadas docena;57665413;72327314;5
+;Gustos;;;12;;;72327315;Capresse;0.0;;;0;Empanadas docena;57665413;72327315;7
+;Gustos;;;12;;;72327316;verdura;0.0;;;0;Empanadas docena;57665413;72327316;4
+;Gustos;;;12;;;72327317;Calabaza y queso;0.0;;;0;Empanadas docena;57665413;72327317;6
+;Gustoss;;;6;;;72328150;Jamón y queso;0.0;;;0;Empanadas Media Docena;57665387;72328150;1
+;Gustoss;;;6;;;72328151;Cebolla y queso;0.0;;;0;Empanadas Media Docena;57665387;72328151;1
+;Gustoss;;;6;;;72328152;Calabaza y queso;0.0;;;0;Empanadas Media Docena;57665387;72328152;1
+;Gustoss;;;6;;;72328153;Pollo;0.0;;;0;Empanadas Media Docena;57665387;72328153;1
+;Gustoss;;;6;;;72328154;Capresse;0.0;;;0;Empanadas Media Docena;57665387;72328154;1
+;Gustoss;;;6;;;72328155;Carne;0.0;;;0;Empanadas Media Docena;57665387;72328155;1
+;Gustoss;;;6;;;72328156;Verdura;0.0;;;0;Empanadas Media Docena;57665387;72328156;1
+;Gustos;;;12;;;73245309;Humita;0.0;;;0;Empanadas docena;57665413;73245309;8
+;Gustoss;;;6;;;73245327;Humita;0.0;;;0;Empanadas Media Docena;57665387;73245327;2
+;Gustos;;;12;;;77328091;Soja;0.0;;;0;Empanadas docena;57665413;77328091;9
+;Gustoss;;;6;;;77328095;Soja;0.0;;;0;Empanadas Media Docena;57665387;77328095;3
+;Gustoss;;;6;;;78866670;Atún;0.0;;;0;Empanadas Media Docena;57665387;78866670;4
+;Gustos;;;12;;;78866732;Atún;0.0;;;0;Empanadas docena;57665413;78866732;10
