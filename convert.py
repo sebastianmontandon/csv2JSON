@@ -4,6 +4,16 @@ import os
 from rich import print
 
 def convert_csv_2_json(input_path, output_path, encoding):
+    """ This function obtain 3 parameters,
+            input_path:     Path where do you need to put you .csv files to convert
+            output_path:    Path where do you need to export converted files
+            encoding:       Encode tipe(example, UTF-8)
+
+        Console return:
+            Welcome menssage,
+            List of all files converted
+            Final message with exported files path
+    """
     list_of_files = os.listdir(input_path)
     print(f'\nWelcome to csv2json\n')
     for file in list_of_files:
